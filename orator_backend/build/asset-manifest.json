@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ee1384a.chunk.css",
+    "main.js": "/static/js/main.09d622b9.chunk.js",
+    "main.js.map": "/static/js/main.09d622b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
+    "static/js/2.f741372e.chunk.js": "/static/js/2.f741372e.chunk.js",
+    "static/js/2.f741372e.chunk.js.map": "/static/js/2.f741372e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ed2d26659831951e94d9cf67e88b63be.js": "/precache-manifest.ed2d26659831951e94d9cf67e88b63be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ee1384a.chunk.css.map": "/static/css/main.8ee1384a.chunk.css.map",
+    "static/js/2.f741372e.chunk.js.LICENSE.txt": "/static/js/2.f741372e.chunk.js.LICENSE.txt",
+    "static/media/Ayush Rathi.jpeg": "/static/media/Ayush Rathi.e58c22cf.jpeg",
+    "static/media/Himani.jpeg": "/static/media/Himani.496a67fc.jpeg",
+    "static/media/atul.jpeg": "/static/media/atul.f91aba7a.jpeg",
+    "static/media/index.css": "/static/media/banner_updated.140ea50a.png",
+    "static/media/ceo.jpg": "/static/media/ceo.321e3bea.jpg",
+    "static/media/danish.jpeg": "/static/media/danish.54d4e83e.jpeg",
+    "static/media/event-manager.png": "/static/media/event-manager.9f69dc62.png",
+    "static/media/financial.jpeg": "/static/media/financial.173ef2fc.jpeg",
+    "static/media/g10.jpeg": "/static/media/g10.af7443b1.jpeg",
+    "static/media/g11.jpeg": "/static/media/g11.c6e53742.jpeg",
+    "static/media/g12.jpeg": "/static/media/g12.89a9c7ce.jpeg",
+    "static/media/g4.JPG": "/static/media/g4.55274d9d.JPG",
+    "static/media/g5.JPG": "/static/media/g5.7d73d2a9.JPG",
+    "static/media/g6.JPG": "/static/media/g6.7e272f11.JPG",
+    "static/media/g7.JPG": "/static/media/g7.27a37765.JPG",
+    "static/media/g8.JPG": "/static/media/g8.2ece6a1e.JPG",
+    "static/media/g9.JPG": "/static/media/g9.256d253a.JPG",
+    "static/media/independance.jpeg": "/static/media/independance.c0252e53.jpeg",
+    "static/media/work1.jpeg": "/static/media/work1.d7c6016d.jpeg",
+    "static/media/work2.jpeg": "/static/media/work2.25c86cce.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40394c.js",
+    "static/js/2.f741372e.chunk.js",
+    "static/css/main.8ee1384a.chunk.css",
+    "static/js/main.09d622b9.chunk.js"
+  ]
+}
