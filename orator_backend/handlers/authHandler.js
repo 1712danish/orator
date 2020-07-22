@@ -117,7 +117,7 @@ exports.resetPassword = async (req,res)=>{
                 from: 'workera@gmail.com',//replace with your email
                 to: user.email,//replace with your email
                 subject: 'Password reset.',
-                html: "Hi,"+user.name+'<br> you have requested for password reset<br>click on <a href="http://localhost:3000/reset/'+token+'">link</a> to reset password.'
+                html: "Hi,"+user.name+'<br> you have requested for password reset<br>click on <a href="https://orator-lpu.herokuapp.com/reset/'+token+'">link</a> to reset password.'
             };
     
             try {
