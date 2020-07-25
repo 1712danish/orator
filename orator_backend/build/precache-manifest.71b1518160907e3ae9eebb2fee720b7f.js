@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de082042c0bfad772581bc918fae9f9a",
+    "revision": "b24555a10ca443995ba99cf330f5a6be",
     "url": "/index.html"
   },
   {
-    "revision": "a1998f4be78471a40062",
+    "revision": "c0cf6e1fe0deeecad3e9",
     "url": "/static/css/main.8ee1384a.chunk.css"
   },
   {
@@ -16,20 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f741372e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1998f4be78471a40062",
-    "url": "/static/js/main.9bcc2726.chunk.js"
+    "revision": "c0cf6e1fe0deeecad3e9",
+    "url": "/static/js/main.7b13c7d0.chunk.js"
   },
   {
     "revision": "13c5ce7c89dba05c4fba",
     "url": "/static/js/runtime-main.8c40394c.js"
   },
   {
+    "revision": "4bbd70d3bdbdd08c2bae440dd87e2f00",
+    "url": "/static/media/Art.4bbd70d3.jpeg"
+  },
+  {
     "revision": "e58c22cf38fbdd3eaf794b8fcb27f4d2",
     "url": "/static/media/Ayush Rathi.e58c22cf.jpeg"
   },
   {
+    "revision": "3eec3334b74b399660b692187e31bf07",
+    "url": "/static/media/Gagandeep Kaur.3eec3334.jpeg"
+  },
+  {
     "revision": "496a67fcd3ab0bb1406bd1aaf9a1a9b2",
     "url": "/static/media/Himani.496a67fc.jpeg"
+  },
+  {
+    "revision": "6a8b02149d220dbfc33854b22bf7f071",
+    "url": "/static/media/Md. Ashil.6a8b0214.jpeg"
   },
   {
     "revision": "f91aba7a2a8ca9d03aa0df8a3a312ec4",
@@ -96,8 +108,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/independance.c0252e53.jpeg"
   },
   {
-    "revision": "d7c6016dda5e3f09a9258b909043a905",
-    "url": "/static/media/work1.d7c6016d.jpeg"
+    "revision": "99c9c6049eaacf451269eae404079d68",
+    "url": "/static/media/industrial.99c9c604.jpeg"
+  },
+  {
+    "revision": "e19dbb9346dabe482e2252f11c4f186f",
+    "url": "/static/media/personality.e19dbb93.jpeg"
+  },
+  {
+    "revision": "1cbb305808d10f5b90a9ba34fc2f3cbc",
+    "url": "/static/media/sql.1cbb3058.jpeg"
   },
   {
     "revision": "25c86cceaa2046d2e1b68abd84e62117",
