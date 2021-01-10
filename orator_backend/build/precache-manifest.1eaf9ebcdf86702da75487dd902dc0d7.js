@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3e09e3aef750688b64857ffa8784f79",
+    "revision": "a8e2986f546d9636a4d4bb3d039b8955",
     "url": "/index.html"
   },
   {
-    "revision": "72eb5fcde1218dc27789",
+    "revision": "aca4a893a3d6cbd98316",
     "url": "/static/css/main.8ee1384a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f741372e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72eb5fcde1218dc27789",
-    "url": "/static/js/main.7213b40e.chunk.js"
+    "revision": "aca4a893a3d6cbd98316",
+    "url": "/static/js/main.09975248.chunk.js"
   },
   {
     "revision": "13c5ce7c89dba05c4fba",
@@ -28,44 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Art.4bbd70d3.jpeg"
   },
   {
-    "revision": "e58c22cf38fbdd3eaf794b8fcb27f4d2",
-    "url": "/static/media/Ayush Rathi.e58c22cf.jpeg"
-  },
-  {
-    "revision": "3eec3334b74b399660b692187e31bf07",
-    "url": "/static/media/Gagandeep Kaur.3eec3334.jpeg"
-  },
-  {
-    "revision": "496a67fcd3ab0bb1406bd1aaf9a1a9b2",
-    "url": "/static/media/Himani.496a67fc.jpeg"
-  },
-  {
-    "revision": "6a8b02149d220dbfc33854b22bf7f071",
-    "url": "/static/media/Md. Ashil.6a8b0214.jpeg"
-  },
-  {
-    "revision": "f91aba7a2a8ca9d03aa0df8a3a312ec4",
-    "url": "/static/media/atul.f91aba7a.jpeg"
-  },
-  {
     "revision": "140ea50a9615d08df041fb206621a600",
     "url": "/static/media/banner_updated.140ea50a.png"
   },
   {
-    "revision": "321e3bea39c58ff1f113b1382b90c671",
-    "url": "/static/media/ceo.321e3bea.jpg"
-  },
-  {
     "revision": "54d4e83ec3b0c69d558adeadb7c23771",
     "url": "/static/media/danish.54d4e83e.jpeg"
-  },
-  {
-    "revision": "9f69dc62df4c5241f03603c09a9b8e75",
-    "url": "/static/media/event-manager.9f69dc62.png"
-  },
-  {
-    "revision": "173ef2fcf8cb4697f176f43058fd21d4",
-    "url": "/static/media/financial.173ef2fc.jpeg"
   },
   {
     "revision": "af7443b12cfd57b214d0c8076719d0f5",
@@ -114,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e19dbb9346dabe482e2252f11c4f186f",
     "url": "/static/media/personality.e19dbb93.jpeg"
-  },
-  {
-    "revision": "7e3d80e1d0fedfdd552015889dbb3422",
-    "url": "/static/media/saurabh.7e3d80e1.jpeg"
   },
   {
     "revision": "1cbb305808d10f5b90a9ba34fc2f3cbc",
